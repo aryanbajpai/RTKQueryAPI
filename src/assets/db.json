@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "title": "POST1",
+      "body": "Some random posts",
+      "userID": 23,
+      "id": "1"
+    },
+    {
+      "title": "POST2",
+      "body": "Some another random posts",
+      "userID": 23,
+      "id": "2"
+    },
+    {
+      "title": "POST3",
+      "body": "Some another random posts",
+      "userID": 33,
+      "id": "3"
+    },
+    {
+      "id": 71.27337633193976,
+      "title": "1st Post",
+      "body": "This is my 1st post to SERVER.",
+      "userID": 303.38161793824094
+    },
+    {
+      "id": 115.49540545753945,
+      "title": "Aryan Bajpai",
+      "body": "He is the creator of this POST.",
+      "userID": 102.90454932056159
+    },
+    {
+      "id": 150.4555351900354,
+      "title": "LAST POST",
+      "body": "This the last post and describes REVALIDATION",
+      "userID": 981.0405248249849
+    },
+    {
+      "id": 418.37475897532863,
+      "title": "Ashish",
+      "body": "Ashish ek ek dm hi kya batau ab",
+      "userID": 503.01556981805516
+    }
+  ]
+}
